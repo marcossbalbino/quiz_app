@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Qual nome do personagem principal de breaking bad?",
+      option1: "Jessie Pink",
+      option2: "Tuco Salamanca",
+      option3: "Walter White",
+      option4: "Will",
+      ans: 3,
+    },
+    {
+      question: "Qual droga é fabricada pelos protagonistas?",
+      option1: "Maconha",
+      option2: "Metanfetamina",
+      option3: "Crak",
+      option4: "k9",
+      ans: 2,
+    },
+    {
+      question: "Qual é o alter ego do Walter?",
+      option1: "Heisemberg",
+      option2: "Elias",
+      option3: "Jonas",
+      option4: "O drogado",
+      ans: 1,
+    },
+    {
+      question: "Qual a profissão principal do walter?",
+      option1: "professor de fisica",
+      option2: "professor quimica",
+      option3: "professor de filosofia",
+      option4: "professor de português",
+      ans: 2,
+    },
+    {
+      question: "Qual o nomedo episódio com a maior nota no imdb?",
+      option1: "A mosca",
+      option2: "Felina",
+      option3: "Ozymandias",
+      option4: "Piloto",
+      ans: 3,
+    },
+  ];
